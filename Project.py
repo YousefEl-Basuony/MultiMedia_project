@@ -1,6 +1,7 @@
 from tkinter import *
 import webbrowser
 
+
 def open_link():
     link = mytext.get()
     webbrowser.open(link)
