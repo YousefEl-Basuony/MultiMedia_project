@@ -51,3 +51,4 @@ footer_label = Label(root, text="Designed by Yousef Elbasuony", font="Helvetica 
 footer_label.pack(pady=(8,14))
 
 root.mainloop()
+
