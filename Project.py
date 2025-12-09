@@ -9,6 +9,8 @@ def open_link():
     link = mytext.get()
     webbrowser.open(link)
 
+
+
 def open_github():
     webbrowser.open("https://github.com/YousefEl-Basuony")
 
